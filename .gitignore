@@ -1,0 +1,30 @@
+.tooling/
+build/
+app/build/
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+__pycache__/
+*.pyc
+
+# Android Studio und lokale IDE-Einstellungen
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Installationspakete und lokale Zugangsdaten
+*.apk
+*.aab
+*.idsig
+.env
+.env.*
+!.env.example
+keystore.properties
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
