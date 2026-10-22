@@ -186,5 +186,5 @@ Die Bilder werden ausschließlich vom lokalen Testserver abgerufen.
 
 ## Veröffentlichungen
 
-APKs stehen unter [GitHub Releases](https://github.com/Dntouch/eve-android/releases)
-zum Download bereit.
+APKs werden über [GitHub Releases](https://github.com/Dntouch/eve-android/releases)
+bereitgestellt.
