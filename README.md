@@ -186,8 +186,5 @@ Die Bilder werden ausschließlich vom lokalen Testserver abgerufen.
 
 ## Veröffentlichungen
 
-APKs werden als Anhänge eines GitHub-Releases veröffentlicht. Für öffentliche
-Releases ohne `EVE_LAN_CERT` bauen. Frühere lokale APKs enthalten möglicherweise
-LAN-Konfiguration und sind nicht für den öffentlichen Upload vorgesehen.
-Die öffentliche APK benötigt einen Server mit einem von Android akzeptierten
-Zertifikat; lokale Builds können weiterhin das eigene LAN-Zertifikat verwenden.
+APKs stehen unter [GitHub Releases](https://github.com/Dntouch/eve-android/releases)
+zum Download bereit.
